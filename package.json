@@ -1,0 +1,19 @@
+{
+  "name": "responsiveemail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepV8401/ResponsiveEmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepV8401/ResponsiveEmail/issues"
+  },
+  "homepage": "https://github.com/sandeepV8401/ResponsiveEmail#readme"
+}
